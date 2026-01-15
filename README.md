@@ -1,6 +1,6 @@
 
 
-# 💳 Fraud Detection System (Part 2)
+# 💳 Fraud Detection System
 
 A **machine learning–based fraud detection system** that identifies fraudulent financial transactions using **behavioral feature engineering, logistic regression, random forest, and SHAP explainability**.
 
