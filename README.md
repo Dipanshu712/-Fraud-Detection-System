@@ -27,6 +27,7 @@ Financial fraud is rare but highly costly. This project builds a **proactive fra
 * **Target variable:** `isFraud`
 * **Highly imbalanced dataset**
 * Fraud rate ≈ **0.13%**
+* Download this dataset :https://drive.google.com/file/d/1Y2qI7Mm79LYOtjDcnFdYT-moNdw8oY9Z/view?usp=drive_link
 
 ---
 
